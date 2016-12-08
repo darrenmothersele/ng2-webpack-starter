@@ -10,7 +10,7 @@ Install dependencies with NPM:
     
 Compile Semantic UI CSS:
 
-    npm build:semantic
+    npm run build:semantic
 
 Run dev server:
 
